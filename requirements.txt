@@ -1,0 +1,9 @@
+langchain
+transformers
+llama-cpp-python
+PyPDF2
+tiktoken
+faiss-cpu --timeout=60
+fastapi
+sentence_transformers
+sentencepiece
